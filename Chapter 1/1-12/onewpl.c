@@ -14,8 +14,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TRUE  1
-#define FALSE 0
+#define TRUE  1 //Macro
+#define FALSE 0 //Macro
 
 int main(void)
 {
